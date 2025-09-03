@@ -1,6 +1,4 @@
-# paulinebai1997.github.io
-埃及守護神祇占卜
-<!DOCTYPE html>
+<!paulinebai1997.github.io>
 <html lang="zh-Hant">
 <head>
   <meta charset="UTF-8">
